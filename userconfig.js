@@ -68,9 +68,9 @@ const default_configuration = {
     default: "d",
   },
 
-  keybindings: {
-    "s": "search-bar",
-  },
+keybindings: {
+  "/": "search-bar",
+},
 
   disabled: [],
 
