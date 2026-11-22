@@ -85,7 +85,7 @@ const default_configuration = {
     // DEVELOPMENT
     // ======================================
     {
-      name: "dev",
+      name: "DEV",
       background_url: "src/img/banners/banner_07.gif",
 
       categories: [
@@ -125,7 +125,7 @@ const default_configuration = {
     // AI + WORKSPACE
     // ======================================
     {
-      name: "workspace",
+      name: "AI",
       background_url: "src/img/banners/banner_11.gif",
 
       categories: [
@@ -201,7 +201,7 @@ const default_configuration = {
     // PERSONAL
     // ======================================
     {
-      name: "personal",
+      name: "ME",
       background_url: "src/img/banners/banner_15.gif",
 
       categories: [
